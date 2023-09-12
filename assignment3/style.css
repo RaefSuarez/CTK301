@@ -1,0 +1,51 @@
+
+  
+  a:link {
+    color: #ff0000;
+  }
+  
+  a:visited {
+    color: #00ff15;
+  }
+  
+  a:active {
+    color: #00ffff;
+  }
+  
+  a:hover {
+    color: #ffff00;
+  }      
+
+#test{
+    color:#3700ff
+    
+}
+
+.special{
+    color:#ff0000
+}
+
+h1 {
+    color:#00ffd5
+  }
+  h2 {
+    color:#3700ff
+  }
+  h3 {
+    color:#8f0000
+  }
+  h4 {
+    color:#b46c00
+  }
+  h5 {
+    color:#007e1b
+  }
+
+  #test{
+    background-color: #ebb1c7;
+  }
+
+ body{
+    color:#45007e
+  }
+  
