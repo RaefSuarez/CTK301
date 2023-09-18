@@ -1,0 +1,51 @@
+a:link {
+    color: #00ff22;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: #0000ff;
+  }
+  
+  a:active {
+    color: #00ffff;
+  }
+  
+  a:hover {
+    color: #ff0000;
+    text-decoration: underline;
+  }        
+  h2 {
+    color:#0d0dff
+  }
+  h1 {
+    color:#ffffff
+  }
+  #top{
+    background-color: #99aaff;
+  }
+  #Doctor{
+    color:#ffb020
+  }
+  #Inferno{
+    background-color: #ffff00;
+  }
+  #red{
+    color: #ff0000;
+  }
+  #father{
+    color: #feff00;
+    background-color: #006400;
+  }
+  #green{
+    background-color: #90ee90;
+  }
+  #Dr{
+    color: #ff0000;
+  }
+  #yellow{
+    background-color: #ffff00;
+  }
+  #blue{
+    color:#0d0dff
+  }
