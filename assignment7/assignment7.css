@@ -129,7 +129,7 @@ nav ul{
 }
 nav li a{
     padding: 10px;
-    width: 200px;
+    width: 195px;
     font-family: Arial, serif, Geneva, Tahoma, sans-serif;
     display: block;
     background-image: linear-gradient(to bottom, #5581c4, #5071b6, #4b62a7, #475298, #434389);
@@ -186,7 +186,7 @@ h2 {
 
   #box{
     display:inline-block;
-    
+    margin-left: 5px;
   }
 
   #welcomelink{
