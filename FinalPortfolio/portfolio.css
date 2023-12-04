@@ -1,11 +1,10 @@
 body {
-  background-image: url(color_map.jpg);
+  background-color: #999999;
 }
 
 #wrapper {
   margin: 24px auto;
   width: 1200px;
-  border: 1px solid black;
   border-radius: 0.5%;
   padding: 24px;
   background-color: #999999;
@@ -36,14 +35,13 @@ nav li a{
 
 }
 nav li a{
-  border: 2px solid black;
   border-radius: 2%;
   background-color:#505050
   
   
 }
 nav li a:hover{
-  width: 200px;
+  width: 184px;
   padding: 15px;
   background-color:#2b2b2b
   
@@ -63,8 +61,11 @@ nav ul{
  
 }
 nav{
+  background-color: #505050;
+  border: 1px solid #000000;
   clear: both;
   grid-column: span 12
+  
   
 }
 #test{
